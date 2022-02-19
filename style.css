@@ -5,3 +5,9 @@ body {
     font-family: ibm-plex-mono, sans-serif;
     height: 100vh;
   }
+.login_button {
+  position: absolute!important;
+  bottom: 1rem;
+  left: 1rem;
+  padding: 1rem;
+}
